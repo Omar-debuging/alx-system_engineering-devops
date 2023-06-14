@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $MYUSER
+echo "hello $MYUSER"
